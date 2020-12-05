@@ -1,1 +1,1 @@
-"# 2020AdventOfCode" 
+# 2020AdventOfCode
