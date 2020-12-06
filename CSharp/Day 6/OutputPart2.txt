@@ -1,0 +1,480 @@
+c m g j b s a i: 8
+x r p n e g q l c s y o d h j f u t z a k m i w v b: 26
+c y n h f o z m l v b q k a w j: 16
+p o u q: 4
+v: 1
+h j d: 3
+v j a d p l c w e r i u g: 13
+m k i p d u z: 7
+v t y i z w c d m: 9
+p: 1
+g l a t d i w: 7
+j q o x k a v s: 8
+k f x e: 4
+f q b s h m r v i j u: 11
+: 0
+s g: 2
+k n i p b j m r q o a w e: 13
+f: 1
+n z p a w q s d g: 9
+q m d x n f r j o b a t z w g c y s e: 19
+d t: 2
+u t b q x: 5
+r v t u i l j z a o f g w y: 14
+w: 1
+r m z a o y l i p c w k v u q e s b h n: 20
+c g r: 3
+e s o: 3
+s w i m u z q: 7
+a o q s: 4
+q b k y f s p e t: 9
+r t w q a c o z b g: 10
+v: 1
+c g e j b q w k v f: 10
+: 0
+g w t o c m z s l f q k: 12
+u w x d: 4
+: 0
+q d e r m v: 6
+: 0
+v t s y u: 5
+x s z: 3
+f s a t b z p v q j k n l r m: 15
+u t l c h v a r i s w z q j m x: 16
+: 0
+c x w k: 4
+g y w c: 4
+a f m t u w: 6
+u j w m n i r v k d g t q c a h: 16
+: 0
+u r n y x a t h i: 9
+g a w b h t k q r u y j e l: 14
+d c t k n g o h s x a l j f r b v m e y: 20
+p j r h g z d w c m x q: 12
+m e i p j v: 6
+k c a v f y r: 7
+p q y n i k f x d: 9
+l a o z u c d e k: 9
+h w u b p o n v t: 9
+w s p o d: 5
+f n p: 3
+q r a t: 4
+j q f z: 4
+m u x i k p s d w: 9
+f j b n m z: 6
+t o: 2
+o c l m d g: 6
+z i p f: 4
+b w c e x t j z r i p s k m o: 15
+j a c t s u k r o d y h v q g e: 16
+q m i n l c u t r: 9
+h w s f c j d z o u v m b n k q: 16
+q t n d f j c g l r k o y u x: 15
+b: 1
+n: 1
+n s: 2
+q z k x i f: 6
+n v h w a e: 6
+f x c m k: 5
+y: 1
+y a u x b w t c v g o q: 12
+: 0
+x j r k w d n b y u s c f g q t p h i o v: 21
+f q c w u d y i o t j b l z p x s h g n m k r a e: 25
+l n c h: 4
+: 0
+h p b e c o r w y v f d: 12
+g d i z n u: 6
+e q p o n l c t b w g k: 12
+e v z s c: 5
+s x e q o j w a r y u t c d n z p: 17
+e b: 2
+m: 1
+t e x s j a i y c p q n: 12
+z: 1
+y d f c s v g b k j p h a m r: 15
+t: 1
+: 0
+q k e v r: 5
+s f m y e v q w k a: 10
+u l v t w e p i m y n b: 12
+z f x e y n s u: 8
+j n e u r l k f z x b q: 12
+: 0
+a e q: 3
+b s g j r i l a y o e z w n d v t q: 18
+g u x f y z e s p j: 10
+v m l p z j d r u b: 10
+c f s j z a m y h t o x q: 13
+d h s f m y n t a: 9
+r q m: 3
+: 0
+v l m e r z: 6
+b: 1
+t e r g c: 5
+o g s a j w v d i p l r t b h f c n k y: 20
+o m y h w: 5
+: 0
+z d x y n q m e: 8
+b w t q a f: 6
+p: 1
+j i x r s: 5
+t v z k b x u g m c n s h p r o i w: 18
+a o i m: 4
+: 0
+t x h e b w: 6
+e y a i x r d h o q k s c: 13
+v k r: 3
+u h: 2
+v h k c a w r n o: 9
+n t p e s i x g r w c: 11
+f n: 2
+n y j c t i q p g f: 10
+u t h: 3
+s k: 2
+z x b v c r g y q f j t o i u d w p k h s m: 22
+k v g u m i a b n o h: 11
+: 0
+l: 1
+h n: 2
+g v e c s z y p d l k q: 12
+r y z f s p t b w i o m h k n l u: 17
+d a l j x i g y r z b: 11
+c f a h x s p j l i t n o b u v q y w k: 20
+f: 1
+g r b m a h i s e: 9
+b c r k u q t: 7
+z p b j m v h r u t q: 11
+k p s z j i e f l b: 10
+o s i: 3
+j: 1
+a b z f t c q v g s r n e x p m h o: 18
+: 0
+l k j d q t e r h y s c g x: 14
+h p c: 3
+e l k f p i v o d: 9
+i z j h m l u: 7
+w i r u n k h: 7
+v c n o: 4
+t g q h w s y f z p c u r: 13
+r w p c i: 5
+p t r a q e b o: 8
+f y p d: 4
+: 0
+g x y s q i a m k p c: 11
+b z e: 3
+s n x: 3
+y b z k s m e c: 8
+: 0
+y g r j k f a z u: 9
+: 0
+b: 1
+j c y b u: 5
+k l b: 3
+v h j s d x r f p o k y z n i b w g t m u: 21
+h b y: 3
+t o b i p z w f x y: 10
+z n r g i l p c f s e: 11
+t p v b x g f n m h: 10
+: 0
+n o k t s j q v m z x h e p l r c f g i u w d a: 24
+z h w b: 4
+i q k p t a f: 7
+e w l a n j v g p m: 10
+i o c u f z w r k: 9
+j u q v a x n i: 8
+l a y o z k e p: 8
+j g o h r b s m: 8
+u a z x f r o n y: 9
+l o w m g u x n a k q: 11
+l f o j: 4
+y g l k u r f a h i d m o t v z: 16
+g m d o h l a i x n c: 11
+: 0
+o a b x: 4
+v o m i t a z d b f l q h k u e: 16
+u a f: 3
+f a d p b j x v z e g h q k r i y: 17
+d h v m g j o q z k n b w y l: 15
+: 0
+s v z u b c i g p e q d t h f m x n j: 19
+v g k p j w y m d u q f x c z t o a s n e: 21
+v: 1
+: 0
+u z: 2
+h: 1
+d: 1
+l b r s f w h a g d m p q j i o c u v y n: 21
+u w n v t h i o: 8
+: 0
+e i n a: 4
+o u: 2
+n r g a u j b d i v: 10
+y n q k z d l p e b t i c o r v w x m a u g: 22
+y z r k w e j s: 8
+d u w: 3
+x l: 2
+q: 1
+a i g m y q x s c v h d e: 13
+n b m o v u l p a i: 10
+c i z n r t s a l x: 10
+q x d z a u y v b c: 10
+u z x v a t m p r o f y j c l i w g b d s q n e k: 25
+p o a j: 4
+e f q i s y l: 7
+: 0
+a f u o g s x d y p b e n q j h m r: 18
+j y i m e n o: 7
+b j l v k z u g w q s p c i h m x r: 18
+y f m l n h g t z s r x k e: 14
+p: 1
+g n c d t s z: 7
+u g x a w j e h z n r: 11
+k r v m q t u i w s e z b j c d h p l o y a x n g f: 26
+z w t y: 4
+j n h a x o t d: 8
+i r d u a: 5
+c i l y: 4
+f j: 2
+h n i j: 4
+z k r j: 4
+c u l p o w: 6
+c u i b d z o a g y n v r k: 14
+g j w f e b l z a s o i r p h c q x u: 19
+a: 1
+x p o n k s: 6
+f r x: 3
+w d: 2
+d y v j w b n z g x: 10
+o b: 2
+c: 1
+c n w l s h d y b m p v z: 13
+c f y k e n u i x w d g v: 13
+v w z n k i d l h u a o s f r: 15
+r h w: 3
+s z p v e c h d y b f j m g: 14
+: 0
+v x y u f t c b p l: 10
+h a d x q s: 6
+l m r: 3
+h f p r k g z l j c s: 11
+j z v m y o q: 7
+i e: 2
+t v a x m: 5
+u q c b: 4
+v q o g u: 5
+z l f a p s j x t m: 10
+z i c y r: 5
+e h i k r o w m v j y l n x b: 15
+b g c r t s y w v e d: 11
+b: 1
+n t m v b: 5
+i b: 2
+: 0
+z a e f u y n b i p w v g o k d: 16
+w f u l h i b n v t a p k y r q: 16
+w g q a j f m k: 8
+: 0
+: 0
+a s q r u: 5
+w a n: 3
+n r g y k v u l p: 9
+o z: 2
+e h q m l k f y x p v u j a g b t c w i o: 21
+h u c l k i t b n r a d: 12
+p a m d y r x t j: 9
+t r: 2
+: 0
+: 0
+: 0
+z m d k n l f: 7
+o z d i e v p x m: 9
+c y n d p k: 6
+: 0
+p: 1
+i v n f a u j p o e l x q k r: 15
+j m g e i x v h a o k n q: 13
+s z u a l f: 6
+s a g m f i: 6
+z: 1
+k i x h a b n o q p z s g: 13
+f k i s v: 5
+o v q b h j i r g: 9
+e s q t o y w m k z r v: 12
+r t i j q o x a y k n: 11
+m n h a b: 5
+f k e: 3
+z t w i r: 5
+h r k e i t g p y: 9
+q c u z d h o: 7
+u: 1
+h f c z p q: 6
+r n k j q h: 6
+i k v y f m l p a c e z: 12
+: 0
+: 0
+f: 1
+t: 1
+: 0
+e w b m v a p s x k i g: 12
+d y k m t v: 6
+: 0
+h j y b n q c z o t x g e i a u p: 17
+w y n p: 4
+f o i s x z r m k c: 10
+m o a: 3
+x l t p w z r f: 8
+y e s o n i t q a g: 10
+p n m v g w y i e r q u k c t: 15
+q z a: 3
+d y p h u t n g: 8
+g o a: 3
+b s q m n i d y o u e w t k: 14
+j: 1
+: 0
+u: 1
+a v o f j n w d e h r p y k l q u g z i m t x: 23
+: 0
+j f p o: 4
+o e: 2
+q a r t: 4
+a j q v c h f p e m: 10
+: 0
+r i x w j o g s f h u y v e b n p: 17
+e y l b t g q v r o n j f z p h w: 17
+x y: 2
+j: 1
+k o c g i w: 6
+r l t: 3
+x j o c: 4
+r: 1
+v o a s: 4
+u b w o t j e c s q h a d v k f: 16
+p b q s u r z k: 8
+v i p: 3
+k: 1
+h: 1
+m w h l n f: 6
+x f y w o c: 6
+r: 1
+k: 1
+f l h b y t o: 7
+r p h o w m i y: 8
+l: 1
+x w c r o p j b z k d e g n u f s q i h t: 21
+w g u: 3
+r w m: 3
+i e k n p: 5
+k g: 2
+: 0
+u q p e r w i x s v c t y j f d n: 17
+i m d w n t b a h x j: 11
+s k g p f: 5
+i: 1
+n: 1
+m j k a g d f s i l c t v p w h u q: 18
+y g x m k d: 6
+v l d y r o e b s: 9
+o: 1
+: 0
+k h c: 3
+o f v t n b p a y d u i: 12
+i s m c g z f q b d l v: 12
+f j x: 3
+e u i p y a v m j s z k: 12
+n b y x z e h a g c d f j v t: 15
+f w q r z h: 6
+e u b m r c n t q y x p s j o z v i l g a d h k f w: 26
+l y o m q h: 6
+c h l w r: 5
+t a m o c q: 6
+b: 1
+n j a c f k l i u w m: 11
+i: 1
+n c r s t q w u: 8
+x g t: 3
+h o x s g k d i t f z: 11
+: 0
+g: 1
+: 0
+s p e o d b q v n g k j r l: 14
+y: 1
+p a z x: 4
+a: 1
+p o z: 3
+w q f l: 4
+c q g e f y s v w p a l x d b r i m z n u: 21
+o u: 2
+o r i d z v s f e p: 10
+x: 1
+x y b u t q f s z d l: 11
+t l: 2
+: 0
+x q n r: 4
+p a b n o t r s: 8
+: 0
+t l: 2
+e c b x u o f a j s h q k: 13
+e g f i v y d t: 8
+n i o k b: 5
+: 0
+y b: 2
+d s y c g z h t i o r p w v l e n: 17
+g c j b l p w k i e h z: 12
+m e p h z s x a w n i: 11
+y o v t l f c u i w x m s k z j q e g: 19
+v a m: 3
+l e: 2
+j w m: 3
+s: 1
+c s q m i p d n h x v f g t: 14
+n r s m a: 5
+y i j e l a t z r d f: 11
+h: 1
+e x: 2
+o f h p s g u l: 8
+w: 1
+w m i a g j v o c x r h d f: 14
+r g a c s w f t b p x y d u m: 15
+d u j p v s b: 7
+g f p n c w m j r d l: 11
+d j w: 3
+: 0
+a l: 2
+c n m k e: 5
+g l w a f: 5
+: 0
+d g v t b x w: 7
+k u y c g e a n q w h: 11
+v i g h o u q l a m t: 11
+n: 1
+r p l a o q: 6
+j v: 2
+y d x w: 4
+l q h r p o e w b j d v: 12
+h: 1
+t: 1
+f y x k d h n w a l e z: 12
+x a w r l: 5
+m d: 2
+s m: 2
+r a z v f p w d m e i c h: 13
+t: 1
+b: 1
+u e m j s k l z f t: 10
+t o c z u x m k l p v e: 12
+a g v f: 4
+: 0
+s g f p: 4
+j r e t v q m f g: 9
+u b z s r p t g x w d e: 12
+g d q m e: 5
+z l i n b o r m e: 9
+i a: 2
+x g h s w f u a b d l i c n y e k t: 18
+c w z g v b u q s y e t o i a j n p: 18
+z p f x i c t q y: 9
+o i r y p j h x w d q a g u: 14
+f e g n z r: 6
+p v m: 3
+Sum: 3351

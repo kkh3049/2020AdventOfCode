@@ -38,18 +38,45 @@ namespace Day_6
         {
             var groupAnswerSets = new List<HashSet<char>>();
             var groupAnswers = new HashSet<char>();
+            var isInitialized = false;
             foreach (var line in lines)
             {
                 if (line == "")
                 {
                     groupAnswerSets.Add(groupAnswers);
                     groupAnswers = new HashSet<char>();
+                    isInitialized = false;
                 }
                 else
                 {
-                    foreach (var answer in line)
+                    if (allAnswered)
                     {
-                        groupAnswers.Add(answer);
+                        if (isInitialized)
+                        {
+                            var singlePersonAnswers = new HashSet<char>();
+                            foreach (var answer in line)
+                            {
+                                singlePersonAnswers.Add(answer);
+                            }
+
+                            groupAnswers.IntersectWith(singlePersonAnswers);
+                        }
+                        else
+                        {
+                            foreach (var answer in line)
+                            {
+                                groupAnswers.Add(answer);
+                            }
+
+                            isInitialized = true;
+                        }
+                    }
+                    else
+                    {
+                        foreach (var answer in line)
+                        {
+                            groupAnswers.Add(answer);
+                        }
                     }
                 }
             }
